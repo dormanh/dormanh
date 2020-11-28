@@ -1,3 +1,5 @@
+![mind](mind.jpg)
+
 ### Hi, I'm Hanga Dormán 👋
 
 I'm currently studying computational and cognitive neuroscience in Budapest, Hungary. I focus on the computational modeling of cognition, and the statistical analysis of neural activity in connection to behavior. More specifically, my interests include:
@@ -8,7 +10,7 @@ I'm currently studying computational and cognitive neuroscience in Budapest, Hun
 
 In addition, I am teaching assistant in the *Programming and Theory of Algorithms* course at Rajk College for Advanced Studies. My page also contains some projects that are related to my earlier studies, and forks of repositories created by others.
 
-Here is a quick guide to my repositories:
+I do all my projects in **Python**. Here is a quick guide to my repositories:
 
 #### Neural data analysis:
 * [gamma-project](https://github.com/dormanh/gamma-project)
