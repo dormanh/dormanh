@@ -1,6 +1,6 @@
 ### Hi, I'm Hanga Dormán 👋
 
-I'm currently studying computational and cognitive neuroscience in Budapest, Hungary. I focus on the computational modeling and statistical analysis of neural phenomena and its connection to behavior. More specifically, my interests include:
+I'm currently studying computational and cognitive neuroscience in Budapest, Hungary. I focus on the computational modeling of cognition, and the statistical analysis of neural activity in connection to behavior. More specifically, my interests include:
 * Spatial cognition
 * The relationship between spatial and temporal representations
 * Navigation in abstract spaces
@@ -27,5 +27,5 @@ Here is a quick guide to my repositories:
 * [teach-rajk-prog1-2020a](https://github.com/dormanh/teach-rajk-prog1-2020a) (forked)
 * [teach-rajk-prog1-2019f](https://github.com/dormanh/teach-rajk-prog1-2019f) (forked)
 
-#### Other:
+#### Machine Learning:
 * [Evolving-Titles](https://github.com/dormanh/Evolving-Titles)
