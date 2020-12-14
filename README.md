@@ -16,6 +16,7 @@ I do all my projects in **Python**. Here is a quick guide to my repositories:
 * [gamma-project](https://github.com/dormanh/gamma-project)
 * [EEG_digital_filter](https://github.com/dormanh/EEG_digital_filter)
 * [EEG_experiments](https://github.com/dormanh/EEG_experiments)
+* [modeling_in_neurobiology](https://github.com/dormanh/modeling_in_neurobiology)
 * [eeg-notebooks](https://github.com/dormanh/eeg-notebooks) (forked)
 
 #### Networks:
