@@ -8,11 +8,12 @@ I'm currently studying computational and cognitive neuroscience in Budapest, Hun
 * Navigation in abstract spaces
 * Learning abstract concepts and understanding logic
 
-In addition, I am teaching assistant in the *Programming and Theory of Algorithms* course at Rajk College for Advanced Studies. My page also contains some projects that are related to my earlier studies, and forks of repositories created by others.
+In addition, I have worked as teaching assistant in the *Programming and Theory of Algorithms* and *Network Science* courses at Rajk College for Advanced Studies. My page also contains some projects that are related to my earlier studies, and forks of repositories created by others.
 
 I do all my projects in **Python**. Here is a quick guide to my repositories:
 
 #### Neural data analysis:
+* [N400_gender_pronouns](https://github.com/dormanh/N400_gender_pronouns)
 * [gamma-project](https://github.com/dormanh/gamma-project)
 * [EEG_digital_filter](https://github.com/dormanh/EEG_digital_filter)
 * [EEG_experiments](https://github.com/dormanh/EEG_experiments)
