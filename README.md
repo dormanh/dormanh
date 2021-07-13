@@ -16,14 +16,15 @@ I do all my projects in **Python**. Here is a quick guide to my repositories:
 * [N400_gender_pronouns](https://github.com/dormanh/N400_gender_pronouns)
 * [gamma-project](https://github.com/dormanh/gamma-project)
 * [EEG_digital_filter](https://github.com/dormanh/EEG_digital_filter)
-* [EEG_experiments](https://github.com/dormanh/EEG_experiments)
 * [modeling_in_neurobiology](https://github.com/dormanh/modeling_in_neurobiology)
+* [EEG_experiments](https://github.com/dormanh/EEG_experiments)
 * [eeg-notebooks](https://github.com/dormanh/eeg-notebooks) (forked)
 
 #### Networks:
-* [COVID_US](https://github.com/dormanh/COVID_US)
-* [rajk-contact-network](https://github.com/dormanh/rajk-contact-network)
+* [wikipedia_philosophy](https://github.com/dormanh/wikipedia_philosophy)
 * [wikipedia_hyperlinks](https://github.com/dormanh/wikipedia_hyperlinks)
+* [rajk-contact-network](https://github.com/dormanh/rajk-contact-network)
+* [COVID_US](https://github.com/dormanh/COVID_US)
 * [dynetx](https://github.com/dormanh/dynetx) (forked)
 
 #### Programming and Theory of Algorithms course:
