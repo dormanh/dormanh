@@ -12,16 +12,14 @@ Here is a quick guide to my repositories:
 * [N400_gender_pronouns](https://github.com/dormanh/N400_gender_pronouns)
 * [EEG_experiments](https://github.com/dormanh/EEG_experiments)
 * [EEG_digital_filter](https://github.com/dormanh/EEG_digital_filter)
-* [modeling_in_neurobiology](https://github.com/dormanh/modeling_in_neurobiology)
 
 #### Networks:
-* [wikipedia_philosophy](https://github.com/dormanh/wikipedia_philosophy)
 * [wikipedia_hyperlinks](https://github.com/dormanh/wikipedia_hyperlinks)
 * [rajk-contact-network](https://github.com/dormanh/rajk-contact-network)
 * [COVID_US](https://github.com/dormanh/COVID_US)
 
 #### Other projects:
-* [reading_exercise](https://github.com/dormanh/reading_exercise)
-* [qft_explorer](https://github.com/dormanh/qft_explorer)
-* [gender_math_skills](https://github.com/dormanh/gender_math_skills)
-* [Evolving-Titles](https://github.com/dormanh/Evolving-Titles)
+* [reading_exercise](https://github.com/dormanh/reading_exercise) (Dash & aphasia)
+* [qft_explorer](https://github.com/dormanh/qft_explorer) (Dash & quantum computing)
+* [gender_math_skills](https://github.com/dormanh/gender_math_skills) (causal statistics)
+* [Evolving-Titles](https://github.com/dormanh/Evolving-Titles) (machine learning & NLP)
