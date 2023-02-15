@@ -6,7 +6,7 @@ I studied computational and cognitive neuroscience in Budapest, Hungary. I defen
 
 Here is a quick guide to my repositories:
 
-#### Neuroscience, signal processing:
+#### Neuroscience & signal processing:
 * [spike_sorting](https://github.com/dormanh/spike_sorting)
 * [place_cell_explorer](https://github.com/dormanh/place_cell_explorer)
 * [N400_gender_pronouns](https://github.com/dormanh/N400_gender_pronouns)
