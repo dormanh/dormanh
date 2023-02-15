@@ -2,7 +2,7 @@
 
 I'm a Python programmer and data scientist with a broad interest in data-driven and / or creative projects.
 
-I studied computational and cognitive neuroscience in Budapest, Hungary. I defended my MSc thesis in Feb 2021, the topic of which was the neural encoding of three-dimensional space, and I have participated in related research since then. (Some of that work hasn't been published yet, so I'm keeping the source code private for now.) Apart from my academic endeavors, I have some work experience in financial data analysis, I tought logic, programming and network science to beginners, and did various other projects in Python.
+I studied computational and cognitive neuroscience in Budapest, Hungary. I defended my MSc thesis in Feb 2021, the topic of which was the neural encoding of three-dimensional space, and I have participated in related research since then. (Some of that work hasn't been published yet, so I'm keeping the source code private for now.) Apart from my academic endeavors, I have some work experience in financial data analysis, I taught logic, programming and network science to beginners, and did various other projects in Python.
 
 Here is a quick guide to my repositories:
 
