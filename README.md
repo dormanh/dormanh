@@ -1,36 +1,27 @@
-![mind](mind.jpg)
-
 ### Hi, I'm Hanga Dormán 👋
 
-I'm currently studying computational and cognitive neuroscience in Budapest, Hungary. I focus on the computational modeling of cognition, and the statistical analysis of neural activity in connection to behavior. More specifically, my interests include:
-* Spatial cognition
-* The relationship between spatial and temporal representations
-* Navigation in abstract spaces
-* Learning abstract concepts and understanding logic
+I'm a Python programmer and data scientist with a broad interest in data-driven and / or creative projects.
 
-In addition, I have worked as teaching assistant in the *Programming and Theory of Algorithms* and *Network Science* courses at Rajk College for Advanced Studies. My page also contains some projects that are related to my earlier studies, and forks of repositories created by others.
+I studied computational and cognitive neuroscience in Budapest, Hungary. I defended my MSc thesis in Feb 2021, the topic of which was the neural encoding of three-dimensional space, and I have participated in related research since then. (Some of that work hasn't been published yet, so I'm keeping the source code private for now.) Apart from my academic endeavors, I have some work experience in financial data analysis, I tought logic, programming and network science to beginners, and did various other projects in Python.
 
-I do all my projects in **Python**. Here is a quick guide to my repositories:
+Here is a quick guide to my repositories:
 
-#### Neural data analysis:
+#### Neuroscience, signal processing:
+* [spike_sorting](https://github.com/dormanh/spike_sorting)
+* [place_cell_explorer](https://github.com/dormanh/place_cell_explorer)
 * [N400_gender_pronouns](https://github.com/dormanh/N400_gender_pronouns)
-* [gamma-project](https://github.com/dormanh/gamma-project)
+* [EEG_experiments](https://github.com/dormanh/EEG_experiments)
 * [EEG_digital_filter](https://github.com/dormanh/EEG_digital_filter)
 * [modeling_in_neurobiology](https://github.com/dormanh/modeling_in_neurobiology)
-* [EEG_experiments](https://github.com/dormanh/EEG_experiments)
-* [eeg-notebooks](https://github.com/dormanh/eeg-notebooks) (forked)
 
 #### Networks:
 * [wikipedia_philosophy](https://github.com/dormanh/wikipedia_philosophy)
 * [wikipedia_hyperlinks](https://github.com/dormanh/wikipedia_hyperlinks)
 * [rajk-contact-network](https://github.com/dormanh/rajk-contact-network)
 * [COVID_US](https://github.com/dormanh/COVID_US)
-* [dynetx](https://github.com/dormanh/dynetx) (forked)
 
-#### Programming and Theory of Algorithms course:
-* [Rajk-Prog1/prog1_2020_fall](https://github.com/Rajk-Prog1/prog1_2020_fall)
-* [teach-rajk-prog1-2020a](https://github.com/dormanh/teach-rajk-prog1-2020a) (forked)
-* [teach-rajk-prog1-2019f](https://github.com/dormanh/teach-rajk-prog1-2019f) (forked)
-
-#### Machine Learning:
+#### Other projects:
+* [reading_exercise](https://github.com/dormanh/reading_exercise)
+* [qft_explorer](https://github.com/dormanh/qft_explorer)
+* [gender_math_skills](https://github.com/dormanh/gender_math_skills)
 * [Evolving-Titles](https://github.com/dormanh/Evolving-Titles)
