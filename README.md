@@ -1,10 +1,8 @@
 ### Hi, I'm Hanga Dormán 👋
 
-I'm a Python programmer and data scientist with a broad interest in data-driven and / or creative projects.
+I have an MSc degree in Computational and Cognitive Neuroscience, and I'm currently looking for PhD opportunities. I'm primarily interested in the neural representation of physical and abstract spaces, and the role of characteristic oscillations in cognitive processes. I've been involved in several other projects not tightly related to neuroscience, the common denominator of which is my Python programming and data analysis and visualization skills.
 
-I studied computational and cognitive neuroscience in Budapest, Hungary. I defended my MSc thesis in Feb 2021, the topic of which was the neural encoding of three-dimensional space, and I have participated in related research since then. (Some of that work hasn't been published yet, so I'm keeping the source code private for now.) Apart from my academic endeavors, I have some work experience in financial data analysis, I taught logic, programming and network science to beginners, and did various other projects in Python.
-
-Here is a quick guide to my repositories:
+Below is a quick guide to my public repositories. The bulk of my work is contained in private repositories related to ongoing research that I'll make available after publication.
 
 #### Neuroscience & signal processing:
 * [spike_sorting](https://github.com/dormanh/spike_sorting)
@@ -22,4 +20,4 @@ Here is a quick guide to my repositories:
 * [reading_exercise](https://github.com/dormanh/reading_exercise) (Dash & aphasia)
 * [qft_explorer](https://github.com/dormanh/qft_explorer) (Dash & quantum computing)
 * [gender_math_skills](https://github.com/dormanh/gender_math_skills) (causal statistics)
-* [Evolving-Titles](https://github.com/dormanh/Evolving-Titles) (machine learning & NLP)
+* [Evolving-Titles](https://github.com/dormanh/Evolving-Titles) (machine learning & NLP)
