@@ -1,6 +1,6 @@
 ### Hi, I'm Hanga Dormán 👋
 
-I have an MSc degree in Computational and Cognitive Neuroscience, and I'm currently looking for PhD opportunities. I'm primarily interested in the neural representation of physical and abstract spaces, and the role of characteristic oscillations in cognitive processes. I've been involved in several other projects not tightly related to neuroscience, the common denominator of which is my Python programming and data analysis and visualization skills.
+I have an MSc degree in Computational and Cognitive Neuroscience, and I'm currently looking for PhD opportunities. I'm primarily interested in the neural representation of physical and abstract spaces, and the role of characteristic oscillations in cognitive processes. I've been involved in several other projects not tightly related to neuroscience, the common denominator of which is data processing, analysis and visualization in Python.
 
 Below is a quick guide to my public repositories. The bulk of my work is contained in private repositories related to ongoing research that I'll make available after publication.
 
